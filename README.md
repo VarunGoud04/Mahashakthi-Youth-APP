@@ -230,6 +230,6 @@ This project is open-source under the [MIT License](LICENSE).
 
 **B. Varun Goud**
 
-* Email: [bandivarungoud05@gmail.com](mailto:bandivarungoud05@gmail.com)
-* GitHub: [https://github.com/VarunGoud04](https://github.com/VarunGoud04)
+* Email: [Varun Goud](mailto:bandivarungoud05@gmail.com)
+* GitHub: [Varun Goud](https://github.com/VarunGoud04)
 
