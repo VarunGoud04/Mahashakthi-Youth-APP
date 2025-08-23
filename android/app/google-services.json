@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1012719338243",
+    "project_id": "mahashakthiyouthapp",
+    "storage_bucket": "mahashakthiyouthapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1012719338243:android:9ae916c14ca9a15964df36",
+        "android_client_info": {
+          "package_name": "com.example.mahashakthiyouthapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuUrFYpb7PZgYzLJszbWj9wTT6mS28Ldo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
