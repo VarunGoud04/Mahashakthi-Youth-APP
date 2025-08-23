@@ -1,4 +1,4 @@
-Perfect! Here’s your **full professional README**, now updated with your `pubspec.yaml` dependencies and assets information, ready to copy-paste:
+Perfect! Here’s your **fully updated professional README** with a proper **Screenshots section** that will display images correctly in GitHub:
 
 ````markdown
 # MahashakthiYouthApp
@@ -41,12 +41,13 @@ MahashakthiYouthApp is a community-driven Flutter mobile application designed to
 
 ## Screenshots
 
-> Add your app screenshots here for better presentation
+The screenshots of the app are stored in `assets/screenshots/`. They are displayed below:
 
-![Home Screen](assets/screenshots/home.jpg)
-![Event Schedule](assets/screenshots/events.jpg)
-![Gallery](assets/screenshots/gallery.jpg)
-![Profile](assets/screenshots/profile.jpg)
+| Home Screen | Event Schedule | Gallery | Profile |
+|-------------|----------------|---------|--------|
+| ![Home Screen](assets/screenshots/Home.jpg) | ![Event Schedule](assets/screenshots/events.jpg) | ![Gallery](assets/screenshots/gallery.jpg) | ![Profile](assets/screenshots/profile.jpg) |
+
+> **Note:** Make sure these image files are committed to Git and the file paths are correct.
 
 ---
 
