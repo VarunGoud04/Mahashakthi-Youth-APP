@@ -1,9 +1,19 @@
-Perfect! Here’s your **fully updated professional README** with a proper **Screenshots section** that will display images correctly in GitHub:
-
-````markdown
 # MahashakthiYouthApp
 
-MahashakthiYouthApp is a community-driven Flutter mobile application designed to connect youth members, volunteers, and committee members. This app centralizes event schedules, announcements, gallery uploads, donations, registrations, and more for the Mahashakthi Youth community.
+<p align="center">
+  <img src="assets/logo.jpeg" alt="MahashakthiYouthApp Logo" width="140"/>
+</p>
+
+<p align="center">
+  <b>MahashakthiYouthApp</b> is a community-driven Flutter mobile application designed to connect youth members, volunteers, and committee members.  
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-3.8-blue" alt="Flutter"/>
+  <img src="https://img.shields.io/badge/Firebase-Backend-orange" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/License-MIT-green" alt="License"/>
+  <img src="https://img.shields.io/badge/Contributions-Welcome-brightgreen" alt="Contributions"/>
+</p>
 
 ---
 
@@ -41,11 +51,17 @@ MahashakthiYouthApp is a community-driven Flutter mobile application designed to
 
 ## Screenshots
 
-The screenshots of the app are stored in `assets/screenshots/`. They are displayed below:
+The screenshots of the app are stored in `assets/screenshots/`.  
+Click on the images below to view them in full size:
 
-| Home Screen | Event Schedule | Gallery | Profile |
-|-------------|----------------|---------|--------|
-| ![Home Screen](assets/screenshots/Home.jpg) | ![Event Schedule](assets/screenshots/events.jpg) | ![Gallery](assets/screenshots/gallery.jpg) | ![Profile](assets/screenshots/profile.jpg) |
+| Welcome Screen | Register Screen | Home Screen | Gallery  |
+|-------------|----------------|---------|---------|
+| [![Welcome Screen](assets/screenshots/Loginpage.jpg)](assets/screenshots/Loginpage.jpg) | [![REgister Screen](assets/screenshots/Registerpage.jpg)](assets/screenshots/HoRegisterpage.jpg) | [![Home Screen](assets/screenshots/Home.jpg)](assets/screenshots/Home.jpg) | [![Gallery](assets/screenshots/Gallery.jpg)](assets/screenshots/Gallery.jpg) |
+
+
+| Announcements Screen | Event Schedule | Payment Profile | Committee Members Details |
+|-------------|----------------|---------|---------|
+| [![Announcement Screen](assets/screenshots/Announcements.jpg)](assets/screenshots/Announments.jpg) | [![Event Schedule](assets/screenshots/events.jpg)](assets/screenshots/events.jpg) | [![Payment](assets/screenshots/payments demo.jpg)](assets/screenshots/Payments demo.jpg) | [![Profile](assets/screenshots/Committee members demo.jpg)](assets/screenshots/Committe members demo.jpg) |
 
 > **Note:** Make sure these image files are committed to Git and the file paths are correct.
 
@@ -73,20 +89,19 @@ Make sure you have the following installed:
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/mahashakthiyouthapp.git
-````
+   ```
 
 2. Navigate to the project directory:
-
    ```bash
    cd mahashakthiyouthapp
    ```
-3. Install dependencies:
 
+3. Install dependencies:
    ```bash
    flutter pub get
    ```
-4. Run the app:
 
+4. Run the app:
    ```bash
    flutter run
    ```
@@ -98,11 +113,9 @@ Make sure you have the following installed:
 1. Go to [Firebase Console](https://console.firebase.google.com/) and create a new project.
 2. Add an Android/iOS app in the Firebase project.
 3. Download `google-services.json` (for Android) and/or `GoogleService-Info.plist` (for iOS) and place them in the respective directories:
-
    * Android: `android/app/`
    * iOS: `ios/Runner/`
 4. Enable Firebase services:
-
    * **Firestore Database:** For storing events, gallery data, and user profiles.
    * **Firebase Auth:** For OTP verification login.
    * **Firebase Storage:** For storing images and videos.
@@ -120,10 +133,10 @@ Make sure you have the following installed:
 
 ## Usage
 
-* Users can register as **Committee Members** or **Guests (Visitors)**.
-* Committee Members require admin approval before accessing full features.
-* Guests can login directly using OTP verification.
-* Navigate through the bottom navigation bar to access events, gallery, announcements, and profile.
+- Users can register as **Committee Members** or **Guests (Visitors)**.
+- Committee Members require admin approval before accessing full features.
+- Guests can login directly using OTP verification.
+- Navigate through the bottom navigation bar to access events, gallery, announcements, and profile.
 
 ---
 
@@ -226,10 +239,12 @@ This project is open-source under the [MIT License](LICENSE).
 
 ---
 
-## Contact Developer
+## Contact
 
-**B. Varun Goud**
+👨‍💻 **B. Varun Goud**
 
-* Email: [Varun Goud](mailto:bandivarungoud05@gmail.com)
-* GitHub: [Varun Goud](https://github.com/VarunGoud04)
+- 📧 [Email](mailto:bandivarungoud05@gmail.com)  
+- 💻 [GitHub](https://github.com/VarunGoud04)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/bandi-varun-goud)  
 
+---
