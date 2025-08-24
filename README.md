@@ -56,7 +56,7 @@ Click on the images below to view them in full size:
 
 | Welcome Screen | Register Screen | Home Screen | Gallery  |
 |-------------|----------------|---------|---------|
-| [![Welcome Screen](assets/screenshots/Loginpage.jpg)](assets/screenshots/Loginpage.jpg) | [![REgister Screen](assets/screenshots/Registerpage.jpg)](assets/screenshots/HoRegisterpage.jpg) | [![Home Screen](assets/screenshots/Home.jpg)](assets/screenshots/Home.jpg) | [![Gallery](assets/screenshots/Gallery.jpg)](assets/screenshots/Gallery.jpg) |
+| [![Welcome Screen](assets/screenshots/Loginpage.jpg)](assets/screenshots/Loginpage.jpg) | [![REgister Screen](assets/screenshots/Registerpage.jpg)](assets/screenshots/Registerpage.jpg) | [![Home Screen](assets/screenshots/Home.jpg)](assets/screenshots/Home.jpg) | [![Gallery](assets/screenshots/Gallery.jpg)](assets/screenshots/Gallery.jpg) |
 
 
 | Announcements Screen | Event Schedule | Payment Profile | Committee Members Details |
@@ -209,8 +209,8 @@ flutter_launcher_icons:
   android: true
   ios: true
   image_path: "assets/logo.jpeg"
-
 flutter_launcher_name: ^0.0.1
+
 
 flutter:
   uses-material-design: true
@@ -248,3 +248,15 @@ This project is open-source under the [MIT License](LICENSE).
 - 🔗 [LinkedIn](https://www.linkedin.com/in/bandi-varun-goud)  
 
 ---
+
+---
+
+## Demo
+
+📱 You can try the app by downloading the APK below:
+
+- [Download APK ](https://github.com/VarunGoud04/mahashakthiyouthapp/releases)  
+- Play Store link (Planned)
+
+> 🚀 Tip: Once you build a release APK, upload it under **GitHub → Releases** and update the link above.
+
