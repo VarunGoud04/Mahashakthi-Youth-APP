@@ -255,7 +255,7 @@ This project is open-source under the [MIT License](LICENSE).
 
 📱 You can try the app by downloading the APK below:
 
-- [Download APK ](https://github.com/VarunGoud04/mahashakthiyouthapp/releases)  
+- [Download APK ](https://github.com/VarunGoud04/Mahashakthi-Youth-APP/releases/download/v1.0.0/MahaShakthi.V1.apk)  
 - Play Store link (Planned)
 
 > 🚀 Tip: Once you build a release APK, upload it under **GitHub → Releases** and update the link above.
