@@ -61,7 +61,7 @@ Click on the images below to view them in full size:
 
 | Announcements Screen | Event Schedule | Payment Profile | Committee Members Details |
 |-------------|----------------|---------|---------|
-| [![Announcement Screen](assets/screenshots/Announcements.jpg)](assets/screenshots/Announments.jpg) | [![Event Schedule](assets/screenshots/events.jpg)](assets/screenshots/events.jpg) | [![Payment](assets/screenshots/payments%20demo.jpg)](assets/screenshots/Payments%20demo.jpg) | [![Profile](assets/screenshots/Committee%20members%20demo.jpg)](assets/screenshots/Committee%20members%20demo.jpg) |
+| [![Announcement Screen](assets/screenshots/Announcements.jpg)](assets/screenshots/Announments.jpg) | [![Event Schedule](assets/screenshots/events.jpg)](assets/screenshots/events.jpg) | [![Payment](assets/screenshots/Payments%20demo.jpg)](assets/screenshots/Payments%20demo.jpg) | [![Profile](assets/screenshots/Committee%20members%20demo.jpg)](assets/screenshots/Committee%20members%20demo.jpg) |
 
 > **Note:** Make sure these image files are committed to Git and the file paths are correct.
 
